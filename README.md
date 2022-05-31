@@ -1,2 +1,2 @@
 # VAPPA
-Variant analysis pipeline with phylogenetic analysis
+Variant Analysis Pipeline with Phylogenetic Analysis
